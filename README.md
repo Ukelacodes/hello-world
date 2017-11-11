@@ -1,2 +1,4 @@
 # hello-world
-I'm here to slay in software engineering; jk, not really. :)
+I am interested in bots
+I am interested in AI
+I am interested in analytics
